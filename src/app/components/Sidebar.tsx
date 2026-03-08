@@ -58,7 +58,7 @@ export function Sidebar() {
   };
 
   const features = [
-    { name: "Home", icon: Home, path: "/" },
+    { name: "Home", icon: Home, path: "/home" },
     { name: "My Schedule", icon: Calendar, path: "/schedule" },
     { name: "Degree Planner", icon: GraduationCap, path: "/degree-planner" },
     { name: "Campus Map", icon: MapIcon, path: "/map" },
@@ -80,7 +80,7 @@ export function Sidebar() {
 
       <div className="px-4 mb-6">
         <Link 
-          to="/"
+          to="/home"
           className="w-full flex items-center gap-2.5 py-3 px-4 rounded-xl bg-white/[0.04] hover:bg-white/[0.08] border border-white/10 text-[14px] font-medium transition-all group shadow-[0_4px_20px_-5px_rgba(0,0,0,0.5)] hover:shadow-[0_0_20px_rgba(59,130,246,0.3)] hover:border-white/20"
         >
           <MessageSquarePlus className="w-4 h-4 text-cyan-400 group-hover:text-cyan-300 transition-colors" />

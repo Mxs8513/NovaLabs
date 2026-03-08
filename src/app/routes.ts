@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router";
+import { createBrowserRouter, redirect } from "react-router";
 import { Layout } from "./components/Layout";
 import { Home } from "./components/Home";
 import { Results } from "./components/Results";
@@ -19,7 +19,8 @@ export const router = createBrowserRouter([
     path: "/",
     Component: Layout,
     children: [
-      { index: true, Component: Home },
+      { index: true, loader: () => redirect("/login") },
+      { path: "home", Component: Home },
       { path: "results", Component: Results },
       { path: "schedule", Component: Schedule },
       { path: "map", Component: CampusMap },

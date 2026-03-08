@@ -25,7 +25,7 @@ export function Login() {
           password,
         });
         if (signInError) throw signInError;
-        navigate("/");
+        navigate("/home");
       } else {
         // Sign up through our backend
         const res = await fetch(`https://${projectId}.supabase.co/functions/v1/make-server-a9f9c092/signup`, {
@@ -52,7 +52,7 @@ export function Login() {
           password,
         });
         if (signInError) throw signInError;
-        navigate("/");
+        navigate("/home");
       }
     } catch (err: any) {
       console.error(err);
