@@ -1,0 +1,1914 @@
+[{
+  "rooms": [
+    {
+      "room": "1.118",
+      "capacity": 24
+    }
+  ],
+  "building": "APC1",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "",
+      "capacity": null
+    }
+  ],
+  "building": "",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "3.610",
+      "capacity": null
+    },
+    {
+      "room": "2.410",
+      "capacity": 118
+    },
+    {
+      "room": "2.404",
+      "capacity": 44
+    }
+  ],
+  "building": "MC",
+  "lat": 32.986958,
+  "lng": -96.74762
+},
+{
+  "rooms": [
+    {
+      "room": "Green Room",
+      "capacity": null
+    },
+    {
+      "room": "14.245",
+      "capacity": null
+    },
+    {
+      "room": "Second Floor Commons",
+      "capacity": null
+    },
+    {
+      "room": "12.471",
+      "capacity": null
+    },
+    {
+      "room": "Auditorium",
+      "capacity": null
+    },
+    {
+      "room": "Atrium",
+      "capacity": null
+    },
+    {
+      "room": "Third Floor Lobby",
+      "capacity": null
+    },
+    {
+      "room": "14.510",
+      "capacity": null
+    },
+    {
+      "room": "14.244",
+      "capacity": null
+    }
+  ],
+  "building": "SSA",
+  "lat": 32.986092,
+  "lng": -96.749435
+},
+{
+  "rooms": [
+    {
+      "room": "ECSS",
+      "capacity": 0
+    }
+  ],
+  "building": "TBD",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "2.506",
+      "capacity": 20
+    },
+    {
+      "room": "2.520",
+      "capacity": 68
+    }
+  ],
+  "building": "BE",
+  "lat": 32.987717,
+  "lng": -96.750458
+},
+{
+  "rooms": [
+    {
+      "room": "2.400",
+      "capacity": 30
+    },
+    {
+      "room": "2.401",
+      "capacity": 72
+    }
+  ],
+  "building": "RHW",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "1.141",
+      "capacity": 18
+    }
+  ],
+  "building": "ROW",
+  "lat": 32.986259,
+  "lng": -96.758545
+},
+{
+  "rooms": [
+    {
+      "room": "14.501",
+      "capacity": 24
+    },
+    {
+      "room": "1.217",
+      "capacity": 125
+    },
+    {
+      "room": "2.107",
+      "capacity": 48
+    },
+    {
+      "room": "1.110",
+      "capacity": 79
+    },
+    {
+      "room": "11.206",
+      "capacity": 63
+    },
+    {
+      "room": "22.102",
+      "capacity": 60
+    },
+    {
+      "room": "12.210",
+      "capacity": 63
+    },
+    {
+      "room": "2.801",
+      "capacity": 60
+    },
+    {
+      "room": "1.107",
+      "capacity": 109
+    },
+    {
+      "room": "11.305",
+      "capacity": 48
+    },
+    {
+      "room": "1.118",
+      "capacity": 340
+    },
+    {
+      "room": "2.115",
+      "capacity": 110
+    },
+    {
+      "room": "2.722",
+      "capacity": 97
+    },
+    {
+      "room": "12.202",
+      "capacity": 60
+    },
+    {
+      "room": "2.112",
+      "capacity": 48
+    },
+    {
+      "room": "22.106",
+      "capacity": 60
+    },
+    {
+      "room": "1.508",
+      "capacity": 60
+    },
+    {
+      "room": "22.110",
+      "capacity": 58
+    },
+    {
+      "room": "2.116",
+      "capacity": 60
+    },
+    {
+      "room": "11.202",
+      "capacity": 56
+    },
+    {
+      "room": "12.214",
+      "capacity": 60
+    },
+    {
+      "room": "12.206",
+      "capacity": 50
+    },
+    {
+      "room": "1.606",
+      "capacity": 48
+    },
+    {
+      "room": "21.107",
+      "capacity": 60
+    },
+    {
+      "room": "11.210",
+      "capacity": 63
+    },
+    {
+      "room": "2.106",
+      "capacity": 110
+    },
+    {
+      "room": "2.117",
+      "capacity": 60
+    },
+    {
+      "room": "2.714",
+      "capacity": 63
+    },
+    {
+      "room": "1.117",
+      "capacity": 110
+    },
+    {
+      "room": "2.803",
+      "capacity": 48
+    },
+    {
+      "room": "2.717",
+      "capacity": 76
+    },
+    {
+      "room": "1.516",
+      "capacity": 48
+    },
+    {
+      "room": "2.802",
+      "capacity": 48
+    },
+    {
+      "room": "12.218",
+      "capacity": 60
+    },
+    {
+      "room": "21.103",
+      "capacity": 58
+    },
+    {
+      "room": "2.901",
+      "capacity": 45
+    },
+    {
+      "room": "21.111",
+      "capacity": 60
+    },
+    {
+      "room": "1.212",
+      "capacity": 125
+    },
+    {
+      "room": "13.510",
+      "capacity": 12
+    },
+    {
+      "room": "13.501",
+      "capacity": 25
+    },
+    {
+      "room": "11.218",
+      "capacity": 60
+    },
+    {
+      "room": "2.903",
+      "capacity": 48
+    },
+    {
+      "room": "1.517",
+      "capacity": 60
+    },
+    {
+      "room": "1.102",
+      "capacity": 79
+    },
+    {
+      "room": "2.102",
+      "capacity": 45
+    },
+    {
+      "room": "12.222",
+      "capacity": 60
+    },
+    {
+      "room": "1.502",
+      "capacity": 60
+    },
+    {
+      "room": "2.804",
+      "capacity": 48
+    },
+    {
+      "room": "2.103",
+      "capacity": 48
+    },
+    {
+      "room": "2.902",
+      "capacity": 52
+    },
+    {
+      "room": "11.214",
+      "capacity": 60
+    },
+    {
+      "room": "2.904",
+      "capacity": 48
+    }
+  ],
+  "building": "SOM",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "1.610",
+      "capacity": 6
+    },
+    {
+      "room": "1.606",
+      "capacity": 0
+    },
+    {
+      "room": "1.103",
+      "capacity": 25
+    },
+    {
+      "room": "1.304",
+      "capacity": 80
+    },
+    {
+      "room": "1.102",
+      "capacity": 19
+    },
+    {
+      "room": "1.104",
+      "capacity": 50
+    },
+    {
+      "room": "1.202",
+      "capacity": 41
+    }
+  ],
+  "building": "PHY",
+  "lat": 32.989441,
+  "lng": -96.750381
+},
+{
+  "rooms": [
+    {
+      "room": "1.508",
+      "capacity": 21
+    },
+    {
+      "room": "1.202",
+      "capacity": 70
+    },
+    {
+      "room": "1.212",
+      "capacity": 40
+    }
+  ],
+  "building": "CR",
+  "lat": 32.992481,
+  "lng": -96.748535
+},
+{
+  "rooms": [
+    {
+      "room": "3.516",
+      "capacity": 130
+    },
+    {
+      "room": "4.112",
+      "capacity": 15
+    },
+    {
+      "room": "3.536",
+      "capacity": 17
+    },
+    {
+      "room": "2.114",
+      "capacity": 15
+    },
+    {
+      "room": "4.102",
+      "capacity": 72
+    },
+    {
+      "room": "4.708",
+      "capacity": 20
+    },
+    {
+      "room": "1.216",
+      "capacity": 25
+    },
+    {
+      "room": "3.601",
+      "capacity": 80
+    },
+    {
+      "room": "2.604",
+      "capacity": 196
+    },
+    {
+      "room": "4.614",
+      "capacity": 90
+    },
+    {
+      "room": "4.502",
+      "capacity": 31
+    },
+    {
+      "room": "4.504",
+      "capacity": 20
+    },
+    {
+      "room": "3.209",
+      "capacity": 24
+    }
+  ],
+  "building": "JO",
+  "lat": 32.988895,
+  "lng": -96.748863
+},
+{
+  "rooms": [
+    {
+      "room": "Mall Booth F3",
+      "capacity": null
+    },
+    {
+      "room": "Chess Plaza",
+      "capacity": null
+    },
+    {
+      "room": "Mall Booth W1&W2",
+      "capacity": null
+    },
+    {
+      "room": "Mall Booth F1",
+      "capacity": null
+    },
+    {
+      "room": "Mall Booth W2",
+      "capacity": null
+    },
+    {
+      "room": "Mall Booth F2",
+      "capacity": null
+    },
+    {
+      "room": "Mall Booth F4",
+      "capacity": null
+    },
+    {
+      "room": "Entire SU Mall",
+      "capacity": null
+    },
+    {
+      "room": "Plinth",
+      "capacity": null
+    },
+    {
+      "room": "Mall Booth W1",
+      "capacity": null
+    }
+  ],
+  "building": "Outdoors SU Mall",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "2.215",
+      "capacity": 24
+    },
+    {
+      "room": "3.102",
+      "capacity": 30
+    },
+    {
+      "room": "2.304",
+      "capacity": 40
+    },
+    {
+      "room": "1.205",
+      "capacity": 38
+    },
+    {
+      "room": "3.215",
+      "capacity": 30
+    },
+    {
+      "room": "3.210",
+      "capacity": 30
+    },
+    {
+      "room": "3.202",
+      "capacity": 30
+    },
+    {
+      "room": "1.206",
+      "capacity": 24
+    },
+    {
+      "room": "2.207",
+      "capacity": 24
+    },
+    {
+      "room": "1.102",
+      "capacity": 254
+    },
+    {
+      "room": "2.203",
+      "capacity": 30
+    },
+    {
+      "room": "2.216",
+      "capacity": 24
+    },
+    {
+      "room": "1.211",
+      "capacity": 38
+    },
+    {
+      "room": "1.204",
+      "capacity": 36
+    },
+    {
+      "room": "2.206",
+      "capacity": 32
+    },
+    {
+      "room": "2.303",
+      "capacity": 146
+    },
+    {
+      "room": "2.202",
+      "capacity": 30
+    },
+    {
+      "room": "1.202",
+      "capacity": 37
+    },
+    {
+      "room": "2.302",
+      "capacity": 40
+    },
+    {
+      "room": "1.214",
+      "capacity": 40
+    },
+    {
+      "room": "3.216",
+      "capacity": 30
+    },
+    {
+      "room": "3.203",
+      "capacity": 30
+    }
+  ],
+  "building": "SLC",
+  "lat": 32.988235,
+  "lng": -96.750397
+},
+{
+  "rooms": [
+    {
+      "room": "3.214",
+      "capacity": 24
+    },
+    {
+      "room": "3.216",
+      "capacity": 40
+    },
+    {
+      "room": "2.232",
+      "capacity": 48
+    },
+    {
+      "room": "3.218",
+      "capacity": 40
+    },
+    {
+      "room": "2.216",
+      "capacity": 64
+    },
+    {
+      "room": "2.238",
+      "capacity": 28
+    }
+  ],
+  "building": "AD",
+  "lat": 32.989712,
+  "lng": -96.748367
+},
+{
+  "rooms": [
+    {
+      "room": "4.428",
+      "capacity": 130
+    },
+    {
+      "room": "3.302",
+      "capacity": 72
+    },
+    {
+      "room": "2.530",
+      "capacity": 75
+    },
+    {
+      "room": "3.206",
+      "capacity": 24
+    },
+    {
+      "room": "2.102",
+      "capacity": null
+    },
+    {
+      "room": "4.301",
+      "capacity": 72
+    },
+    {
+      "room": "3.606",
+      "capacity": 45
+    },
+    {
+      "room": "3.402A",
+      "capacity": 28
+    },
+    {
+      "room": "4.204",
+      "capacity": 32
+    },
+    {
+      "room": "3.420",
+      "capacity": 130
+    },
+    {
+      "room": "4.708",
+      "capacity": 16
+    },
+    {
+      "room": "4.208",
+      "capacity": 24
+    },
+    {
+      "room": "3.402B",
+      "capacity": 30
+    },
+    {
+      "room": "2.302",
+      "capacity": 95
+    }
+  ],
+  "building": "GR",
+  "lat": 32.988659,
+  "lng": -96.747871
+},
+{
+  "rooms": [
+    {
+      "room": "2.706",
+      "capacity": 32
+    },
+    {
+      "room": "2.502",
+      "capacity": 76
+    },
+    {
+      "room": "2.402",
+      "capacity": 300
+    },
+    {
+      "room": "2.108",
+      "capacity": 20
+    }
+  ],
+  "building": "HH",
+  "lat": 32.986992,
+  "lng": -96.751633
+},
+{
+  "rooms": [
+    {
+      "room": "12.110",
+      "capacity": 96
+    },
+    {
+      "room": "12.125",
+      "capacity": 20
+    },
+    {
+      "room": "12.120",
+      "capacity": 48
+    }
+  ],
+  "building": "CRA",
+  "lat": 32.991722,
+  "lng": -96.748421
+},
+{
+  "rooms": [
+    {
+      "room": "2.110",
+      "capacity": 44
+    },
+    {
+      "room": "3.108",
+      "capacity": 20
+    },
+    {
+      "room": "3.112",
+      "capacity": 20
+    },
+    {
+      "room": "2.316",
+      "capacity": 25
+    },
+    {
+      "room": "2.804",
+      "capacity": 20
+    },
+    {
+      "room": "3.118",
+      "capacity": 20
+    },
+    {
+      "room": "3.732",
+      "capacity": 12
+    },
+    {
+      "room": "3.120",
+      "capacity": 20
+    },
+    {
+      "room": "2.126",
+      "capacity": 44
+    },
+    {
+      "room": "2.120",
+      "capacity": 44
+    },
+    {
+      "room": "3.114",
+      "capacity": 20
+    },
+    {
+      "room": "3.110",
+      "capacity": 20
+    },
+    {
+      "room": "2.112",
+      "capacity": 44
+    }
+  ],
+  "building": "ECSN",
+  "lat": 32.986992,
+  "lng": -96.750366
+},
+{
+  "rooms": [
+    {
+      "room": "2.801",
+      "capacity": null
+    },
+    {
+      "room": "11.210",
+      "capacity": null
+    },
+    {
+      "room": "11.202",
+      "capacity": null
+    },
+    {
+      "room": "1.117",
+      "capacity": null
+    },
+    {
+      "room": "2.102",
+      "capacity": null
+    },
+    {
+      "room": "1.217",
+      "capacity": null
+    },
+    {
+      "room": "14.501",
+      "capacity": null
+    },
+    {
+      "room": "2.904",
+      "capacity": null
+    },
+    {
+      "room": "2.112",
+      "capacity": null
+    },
+    {
+      "room": "2.116",
+      "capacity": null
+    },
+    {
+      "room": "1.110",
+      "capacity": null
+    },
+    {
+      "room": "2.107",
+      "capacity": null
+    },
+    {
+      "room": "1.118",
+      "capacity": null
+    },
+    {
+      "room": "2.901",
+      "capacity": null
+    },
+    {
+      "room": "2.106",
+      "capacity": null
+    },
+    {
+      "room": "12.222",
+      "capacity": null
+    },
+    {
+      "room": "1.107",
+      "capacity": null
+    },
+    {
+      "room": "12.214",
+      "capacity": null
+    },
+    {
+      "room": "2.117",
+      "capacity": null
+    },
+    {
+      "room": "2.714",
+      "capacity": null
+    },
+    {
+      "room": "2.903",
+      "capacity": null
+    },
+    {
+      "room": "12.218",
+      "capacity": null
+    },
+    {
+      "room": "2.804",
+      "capacity": null
+    },
+    {
+      "room": "12.202",
+      "capacity": null
+    },
+    {
+      "room": "2.803",
+      "capacity": null
+    },
+    {
+      "room": "1.502",
+      "capacity": null
+    },
+    {
+      "room": "11.206",
+      "capacity": null
+    },
+    {
+      "room": "1.212",
+      "capacity": null
+    },
+    {
+      "room": "2.103",
+      "capacity": null
+    },
+    {
+      "room": "13.510",
+      "capacity": null
+    },
+    {
+      "room": "2.115",
+      "capacity": null
+    },
+    {
+      "room": "13.501",
+      "capacity": null
+    },
+    {
+      "room": "12.206",
+      "capacity": null
+    },
+    {
+      "room": "2.717",
+      "capacity": null
+    },
+    {
+      "room": "2.722",
+      "capacity": null
+    },
+    {
+      "room": "12.210",
+      "capacity": null
+    },
+    {
+      "room": "2.902",
+      "capacity": null
+    },
+    {
+      "room": "4.418",
+      "capacity": null
+    },
+    {
+      "room": "2.802",
+      "capacity": null
+    }
+  ],
+  "building": "JSOM",
+  "lat": 32.985046,
+  "lng": -96.746803
+},
+{
+  "rooms": [
+    {
+      "room": "RO.21",
+      "capacity": 0
+    },
+    {
+      "room": "RO.03",
+      "capacity": 0
+    },
+    {
+      "room": "RO.15T",
+      "capacity": 0
+    },
+    {
+      "room": "RO.08",
+      "capacity": 0
+    },
+    {
+      "room": "RO.12",
+      "capacity": 0
+    },
+    {
+      "room": "RO.02",
+      "capacity": 0
+    },
+    {
+      "room": "RO.13",
+      "capacity": 0
+    },
+    {
+      "room": "RO.10",
+      "capacity": 0
+    },
+    {
+      "room": "RO.14",
+      "capacity": 0
+    },
+    {
+      "room": "3.107B",
+      "capacity": 24
+    },
+    {
+      "room": "RO.16",
+      "capacity": 0
+    },
+    {
+      "room": "RO.19",
+      "capacity": 0
+    },
+    {
+      "room": "RO.07",
+      "capacity": 0
+    },
+    {
+      "room": "RO.09",
+      "capacity": 0
+    },
+    {
+      "room": "RO.17",
+      "capacity": 0
+    },
+    {
+      "room": "RO.04",
+      "capacity": 0
+    },
+    {
+      "room": "RO.11",
+      "capacity": 0
+    },
+    {
+      "room": "RO.01",
+      "capacity": 0
+    },
+    {
+      "room": "RO.20",
+      "capacity": 0
+    },
+    {
+      "room": "RO.26",
+      "capacity": 0
+    },
+    {
+      "room": "RO.18",
+      "capacity": 0
+    },
+    {
+      "room": "RO.22",
+      "capacity": 0
+    },
+    {
+      "room": "RO.06",
+      "capacity": 0
+    },
+    {
+      "room": "RO.25",
+      "capacity": 0
+    },
+    {
+      "room": "RO.05",
+      "capacity": 0
+    }
+  ],
+  "building": "SSB",
+  "lat": 32.985943,
+  "lng": -96.74884
+},
+{
+  "rooms": [
+    {
+      "room": "1.318",
+      "capacity": 15
+    }
+  ],
+  "building": "AB",
+  "lat": 32.98521,
+  "lng": -96.749306
+},
+{
+  "rooms": [
+    {
+      "room": "2.002",
+      "capacity": 60
+    }
+  ],
+  "building": "RHNW",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "10.687",
+      "capacity": 15
+    }
+  ],
+  "building": "BSB",
+  "lat": 32.991535,
+  "lng": -96.750046
+},
+{
+  "rooms": [
+    {
+      "room": "1.106",
+      "capacity": 24
+    },
+    {
+      "room": "1.114",
+      "capacity": 24
+    },
+    {
+      "room": "1.122",
+      "capacity": 24
+    },
+    {
+      "room": "1.110",
+      "capacity": 24
+    },
+    {
+      "room": "1.118",
+      "capacity": 24
+    }
+  ],
+  "building": "ML1",
+  "lat": 32.98687,
+  "lng": -96.752625
+},
+{
+  "rooms": [
+    {
+      "room": "3.250",
+      "capacity": 60
+    },
+    {
+      "room": "1.315",
+      "capacity": 300
+    },
+    {
+      "room": "4.335",
+      "capacity": 35
+    },
+    {
+      "room": "3.325",
+      "capacity": 25
+    },
+    {
+      "room": "2.315",
+      "capacity": 24
+    },
+    {
+      "room": "3.315",
+      "capacity": 26
+    },
+    {
+      "room": "3.210",
+      "capacity": 60
+    },
+    {
+      "room": "2.210",
+      "capacity": 34
+    },
+    {
+      "room": "1.355",
+      "capacity": 80
+    },
+    {
+      "room": "2.335",
+      "capacity": 40
+    },
+    {
+      "room": "1.365",
+      "capacity": 80
+    },
+    {
+      "room": "1.130",
+      "capacity": 75
+    },
+    {
+      "room": "2.325",
+      "capacity": 30
+    },
+    {
+      "room": "3.335",
+      "capacity": 40
+    },
+    {
+      "room": "4.315",
+      "capacity": 25
+    },
+    {
+      "room": "2.250",
+      "capacity": 54
+    },
+    {
+      "room": "3.450",
+      "capacity": 12
+    },
+    {
+      "room": "1.150B",
+      "capacity": 12
+    },
+    {
+      "room": "4.325",
+      "capacity": 30
+    }
+  ],
+  "building": "ECSW",
+  "lat": 32.986191,
+  "lng": -96.751671
+},
+{
+  "rooms": [
+    {
+      "room": "2.702",
+      "capacity": 272
+    }
+  ],
+  "building": "TH",
+  "lat": 32.988445,
+  "lng": -96.748718
+},
+{
+  "rooms": [
+    {
+      "room": "1.502",
+      "capacity": 48
+    },
+    {
+      "room": "2.608",
+      "capacity": 40
+    },
+    {
+      "room": "3.206",
+      "capacity": 16
+    },
+    {
+      "room": "3.222",
+      "capacity": 32
+    },
+    {
+      "room": "1.206C",
+      "capacity": 32
+    },
+    {
+      "room": "1.202",
+      "capacity": 48
+    },
+    {
+      "room": "2.702",
+      "capacity": 48
+    },
+    {
+      "room": "3.616",
+      "capacity": 46
+    },
+    {
+      "room": "2.404",
+      "capacity": 48
+    },
+    {
+      "room": "2.208",
+      "capacity": 48
+    },
+    {
+      "room": "3.704A",
+      "capacity": 10
+    }
+  ],
+  "building": "FO",
+  "lat": 32.987701,
+  "lng": -96.749069
+},
+{
+  "rooms": [
+    {
+      "room": "1.115",
+      "capacity": 36
+    },
+    {
+      "room": "1.121",
+      "capacity": 43
+    },
+    {
+      "room": "1.221",
+      "capacity": 124
+    }
+  ],
+  "building": "SPN",
+  "lat": 32.994007,
+  "lng": -96.752197
+},
+{
+  "rooms": [
+    {
+      "room": "J.108",
+      "capacity": null
+    },
+    {
+      "room": "J.223",
+      "capacity": null
+    },
+    {
+      "room": "J.213",
+      "capacity": null
+    },
+    {
+      "room": "J.204",
+      "capacity": null
+    }
+  ],
+  "building": "CD2",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "2.103",
+      "capacity": 40
+    },
+    {
+      "room": "1.210",
+      "capacity": 12
+    },
+    {
+      "room": "2.701",
+      "capacity": 43
+    }
+  ],
+  "building": "ROC",
+  "lat": 32.98629,
+  "lng": -96.757126
+},
+{
+  "rooms": [
+    {
+      "room": "ONLINE",
+      "capacity": 0
+    }
+  ],
+  "building": "ONLINE",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "4.902",
+      "capacity": 36
+    },
+    {
+      "room": "3.914",
+      "capacity": 32
+    },
+    {
+      "room": "4.906",
+      "capacity": 25
+    },
+    {
+      "room": "2.908",
+      "capacity": 24
+    },
+    {
+      "room": "3.205",
+      "capacity": 32
+    },
+    {
+      "room": "1.305",
+      "capacity": 40
+    },
+    {
+      "room": "2.101",
+      "capacity": 40
+    },
+    {
+      "room": "3.605",
+      "capacity": 30
+    },
+    {
+      "room": "4.910",
+      "capacity": 28
+    },
+    {
+      "room": "2.914",
+      "capacity": 32
+    },
+    {
+      "room": "1.910",
+      "capacity": 30
+    },
+    {
+      "room": "2.601",
+      "capacity": 12
+    },
+    {
+      "room": "3.904",
+      "capacity": 28
+    },
+    {
+      "room": "3.713",
+      "capacity": 14
+    },
+    {
+      "room": "2.602",
+      "capacity": 48
+    },
+    {
+      "room": "3.805B",
+      "capacity": 26
+    },
+    {
+      "room": "3.101B",
+      "capacity": 32
+    },
+    {
+      "room": "2.918",
+      "capacity": 32
+    },
+    {
+      "room": "3.910",
+      "capacity": 36
+    },
+    {
+      "room": "3.705",
+      "capacity": 20
+    },
+    {
+      "room": "3.601",
+      "capacity": 32
+    },
+    {
+      "room": "2.605",
+      "capacity": 30
+    },
+    {
+      "room": "2.705E",
+      "capacity": 15
+    },
+    {
+      "room": "1.802",
+      "capacity": 24
+    }
+  ],
+  "building": "ATC",
+  "lat": 32.986137,
+  "lng": -96.747566
+},
+{
+  "rooms": [
+    {
+      "room": "2.306",
+      "capacity": 15
+    },
+    {
+      "room": "2.202",
+      "capacity": 44
+    },
+    {
+      "room": "2.104",
+      "capacity": 40
+    },
+    {
+      "room": "2.304",
+      "capacity": 23
+    },
+    {
+      "room": "2.106",
+      "capacity": 42
+    },
+    {
+      "room": "2.214",
+      "capacity": 70
+    },
+    {
+      "room": "2.302",
+      "capacity": 36
+    },
+    {
+      "room": "2.204",
+      "capacity": 22
+    },
+    {
+      "room": "2.212",
+      "capacity": 0
+    },
+    {
+      "room": "2.210",
+      "capacity": 16
+    },
+    {
+      "room": "2.102",
+      "capacity": 180
+    },
+    {
+      "room": "3.410C",
+      "capacity": 28
+    }
+  ],
+  "building": "FN",
+  "lat": 32.988144,
+  "lng": -96.749359
+},
+{
+  "rooms": [
+    {
+      "room": "Green",
+      "capacity": null
+    }
+  ],
+  "building": "Comets LANding - SU Green",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "1.214",
+      "capacity": 28
+    },
+    {
+      "room": "1.202",
+      "capacity": 36
+    },
+    {
+      "room": "1.218",
+      "capacity": 32
+    },
+    {
+      "room": "1.216",
+      "capacity": 28
+    }
+  ],
+  "building": "ML2",
+  "lat": 32.98687,
+  "lng": -96.753288
+},
+{
+  "rooms": [
+    {
+      "room": "1.104",
+      "capacity": null
+    }
+  ],
+  "building": "CBH",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "1.744",
+      "capacity": 14
+    },
+    {
+      "room": "3.718",
+      "capacity": 16
+    },
+    {
+      "room": "3.204",
+      "capacity": 50
+    }
+  ],
+  "building": "RL",
+  "lat": 32.992561,
+  "lng": -96.750443
+},
+{
+  "rooms": [
+    {
+      "room": "11.219",
+      "capacity": 139
+    },
+    {
+      "room": "12.216",
+      "capacity": 144
+    }
+  ],
+  "building": "SP2",
+  "lat": 32.995022,
+  "lng": -96.753319
+},
+{
+  "rooms": [
+    {
+      "room": "Awning Area",
+      "capacity": 0
+    },
+    {
+      "room": "1.220",
+      "capacity": 300
+    },
+    {
+      "room": "2.210",
+      "capacity": 50
+    },
+    {
+      "room": "3.250",
+      "capacity": 50
+    },
+    {
+      "room": "2.235",
+      "capacity": 50
+    },
+    {
+      "room": "Courtyard",
+      "capacity": 0
+    },
+    {
+      "room": "2.240",
+      "capacity": 48
+    },
+    {
+      "room": "1.210",
+      "capacity": 150
+    },
+    {
+      "room": "3.260",
+      "capacity": 30
+    },
+    {
+      "room": "Atrium",
+      "capacity": 0
+    },
+    {
+      "room": "1.119",
+      "capacity": 30
+    },
+    {
+      "room": "3.230",
+      "capacity": 50
+    },
+    {
+      "room": "1.129",
+      "capacity": 30
+    },
+    {
+      "room": "2.220",
+      "capacity": 37
+    },
+    {
+      "room": "1.139",
+      "capacity": 30
+    },
+    {
+      "room": "1.188",
+      "capacity": 25
+    },
+    {
+      "room": "1.159",
+      "capacity": 30
+    },
+    {
+      "room": "1.169",
+      "capacity": 30
+    },
+    {
+      "room": "3.240",
+      "capacity": 30
+    },
+    {
+      "room": "2.215",
+      "capacity": 50
+    },
+    {
+      "room": "2.225",
+      "capacity": 50
+    },
+    {
+      "room": "1.179",
+      "capacity": 30
+    },
+    {
+      "room": "3.270",
+      "capacity": 30
+    },
+    {
+      "room": "3.220",
+      "capacity": 30
+    },
+    {
+      "room": "2.230",
+      "capacity": 50
+    }
+  ],
+  "building": "SCI",
+  "lat": 32.988945,
+  "lng": -96.75032
+},
+{
+  "rooms": [
+    {
+      "room": "2.507",
+      "capacity": 14
+    },
+    {
+      "room": "2.203",
+      "capacity": 70
+    },
+    {
+      "room": "2.412",
+      "capacity": 120
+    },
+    {
+      "room": "2.311",
+      "capacity": 80
+    },
+    {
+      "room": "2.305",
+      "capacity": 80
+    },
+    {
+      "room": "2.201",
+      "capacity": 70
+    },
+    {
+      "room": "2.410",
+      "capacity": 120
+    },
+    {
+      "room": "2.415",
+      "capacity": 120
+    },
+    {
+      "room": "2.306",
+      "capacity": 80
+    },
+    {
+      "room": "2.312",
+      "capacity": 70
+    },
+    {
+      "room": "2.102",
+      "capacity": 56
+    },
+    {
+      "room": "3.910",
+      "capacity": 16
+    }
+  ],
+  "building": "ECSS",
+  "lat": 32.98624,
+  "lng": -96.75042
+},
+{
+  "rooms": [
+    {
+      "room": "1.219",
+      "capacity": 32
+    },
+    {
+      "room": "1.218",
+      "capacity": 30
+    },
+    {
+      "room": "1.202",
+      "capacity": 19
+    },
+    {
+      "room": "1.222",
+      "capacity": 38
+    },
+    {
+      "room": "1.223",
+      "capacity": 18
+    },
+    {
+      "room": "1.106",
+      "capacity": 16
+    },
+    {
+      "room": "1.206",
+      "capacity": 19
+    },
+    {
+      "room": "1.210",
+      "capacity": 19
+    },
+    {
+      "room": "1.102",
+      "capacity": 18
+    },
+    {
+      "room": "1.214",
+      "capacity": 18
+    }
+  ],
+  "building": "CB",
+  "lat": 32.9897,
+  "lng": -96.749344
+},
+{
+  "rooms": [
+    {
+      "room": "Galaxy  Room  (A & B)",
+      "capacity": null
+    },
+    {
+      "room": "Galaxy  Room - B",
+      "capacity": null
+    },
+    {
+      "room": "Galaxy  Room - C",
+      "capacity": null
+    },
+    {
+      "room": "Galaxy  Room - A",
+      "capacity": null
+    },
+    {
+      "room": "Artemis Hall I",
+      "capacity": null
+    },
+    {
+      "room": "Lower Level Booth 3",
+      "capacity": null
+    },
+    {
+      "room": "Upper Level Booth 1",
+      "capacity": null
+    },
+    {
+      "room": "Upper Level Booth 2",
+      "capacity": null
+    },
+    {
+      "room": "Lower Level Booth 1",
+      "capacity": null
+    },
+    {
+      "room": "Artemis Hall (I & II)",
+      "capacity": null
+    },
+    {
+      "room": "Lower Level Booth 2",
+      "capacity": null
+    },
+    {
+      "room": "Upper Level Booth 4",
+      "capacity": null
+    },
+    {
+      "room": "Upper Level Booth 3",
+      "capacity": null
+    },
+    {
+      "room": "Galaxy  Room  (B & C)",
+      "capacity": null
+    },
+    {
+      "room": "First Floor",
+      "capacity": null
+    },
+    {
+      "room": "Artemis Hall II",
+      "capacity": null
+    },
+    {
+      "room": "Galaxy  Room  (A, B, & C)",
+      "capacity": null
+    }
+  ],
+  "building": "Student Union (SU)",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "Nova Lounge",
+      "capacity": null
+    }
+  ],
+  "building": "Comets LANding - Nova Lounge",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "A.101",
+      "capacity": null
+    },
+    {
+      "room": "C.140",
+      "capacity": null
+    },
+    {
+      "room": "A.229",
+      "capacity": null
+    },
+    {
+      "room": "B.108",
+      "capacity": null
+    }
+  ],
+  "building": "CD1",
+  "lat": null,
+  "lng": null
+},
+{
+  "rooms": [
+    {
+      "room": "1.201",
+      "capacity": 30
+    }
+  ],
+  "building": "VCB",
+  "lat": null,
+  "lng": null
+}]
