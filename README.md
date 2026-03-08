@@ -9,7 +9,7 @@
 
   Create a `.env` file at the project root with:
 
-  `VITE_GEMINI_API_KEY=your_gemini_api_key`
+  `VITE_OPENAI_API_KEY=your_openai_api_key`
 
   Run `npm run dev` to start the development server.
   
